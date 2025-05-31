@@ -3,8 +3,15 @@
   <em>Computer Science student | Indie Dev | Full-stack Learner | Game Enthusiast</em><br>
   🌱 Currently exploring game development & experimental design
 </p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=flloydgagni&style=flat-square&color=brightgreen" alt="visitor badge"/>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/flloyd-nathaniel-gagni/" style="margin: 0 10px">🌐 LinkedIn</a> •
+  <a href="https://por0dox.itch.io/" style="margin: 0 10px">🎮 Itch.io</a> •
+  <a href="mailto:fnbg720@gmail.com" style="margin: 0 10px">📧 Email</a>
 </p>
 
 ---
@@ -69,13 +76,5 @@ These projects were developed as academic submissions and are **not publicly vis
   <img src="https://github-readme-stats.vercel.app/api?username=flloydgagni&show_icons=true&theme=radical&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=flloydgagni&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
-
----
-
-## 📬 Let's Connect!
-
-- 🌐 [LinkedIn: flloyd-nathaniel-gagni](https://www.linkedin.com/in/flloyd-nathaniel-gagni/)
-- 🎮 [Itch.io: por0dox](https://por0dox.itch.io/)
-- 📧 Email: `fnbg720@gmail.com`
 
 ---
