@@ -37,7 +37,7 @@ Commissioned by **University of the Philippines Baguio – Office of Student Aff
 
 ---
 
-## 🧠 Academic Machine Projects (Private by Policy)
+## �‍💻 Academic Machine Projects (Private by Policy)
 
 These projects were developed as academic submissions and are **not publicly visible** in adherence to university policies. However, they showcase a wide range of topics from systems, algorithms, and programming languages:
 
@@ -65,7 +65,8 @@ These projects were developed as academic submissions and are **not publicly vis
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=flloydgagni&show_icons=true&theme=radical" />
+  <!-- Modified line below: Added count_private=true -->
+  <img src="https://github-readme-stats.vercel.app/api?username=flloydgagni&show_icons=true&theme=radical&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=flloydgagni&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
