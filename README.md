@@ -43,9 +43,13 @@
   ⚠️ **Note:** Demo version available upon request.  
   📁 Source code is private due to institutional sensitivity.
   
+</details>
+
   ---
-  
+
   ## �‍💻 Academic Machine Projects (Private by Policy)
+  
+<details>
   
   These projects were developed as academic submissions and are **not publicly visible** in adherence to university policies. However, they showcase a wide range of topics from systems, algorithms, and programming languages:
   
@@ -58,17 +62,19 @@
   - 🔐 *Pollux Cipher + Prime Generator* – encryption experiments with 300–1500 digit primes  
   
   📝 Hosted on: [GitHub @ElemP20](https://github.com/ElemP20)
-  
+
+</details>
+
   ---
   
   ## 🧪 Experimental & Demo Projects
+<details>
   
   - 🎨 [ColorPass – Public Demo (Soon)](https://github.com/flloydgagni/colorpass-public-demo)  
     Encode passwords into beautiful color sequences for easy visualization and sharing.
   
   > Want the full version? Email or message me — I’ll be happy to give you a walkthrough.
-  
-  ---
+
 </details>
 
 ## 📊 GitHub Stats
@@ -79,4 +85,3 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=flloydgagni&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
   </p>
 </details>
----
