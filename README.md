@@ -81,7 +81,7 @@
 <details>
   <p align="center">
     <!-- Modified line below: Added count_private=true -->
-    <img src="https://github-readme-stats-flloyd-nathaniel-gagnis-projects.vercel.app/api?username=FlloydGagni&show_icons=true&theme=radical&count_private=true" />
+    <img src="https://github-readme-stats-flloyd-nathaniel-gagnis-projects.vercel.app/api?username=FlloydGagni&show_icons=true&theme=radical&count_private=true&show=prs_merged&include_all_commits=true" />
     <img src="https://github-readme-streak-stats.herokuapp.com?user=flloydgagni&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />   
   </p>
 </details>
