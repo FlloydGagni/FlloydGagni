@@ -75,6 +75,6 @@ These projects were developed as academic submissions and are **not publicly vis
 
 - 🌐 [LinkedIn: flloyd-nathaniel-gagni](https://www.linkedin.com/in/flloyd-nathaniel-gagni/)
 - 🎮 [Itch.io: por0dox](https://por0dox.itch.io/)
-- 📧 Email: `flloydgagni@example.com` (replace with your actual email)
+- 📧 Email: `fnbg720@gmail.com`
 
 ---
