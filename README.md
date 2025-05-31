@@ -3,6 +3,9 @@
   <em>Computer Science student | Indie Dev | Full-stack Learner | Game Enthusiast</em><br>
   🌱 Currently exploring game development & experimental design
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=flloydgagni&style=flat-square&color=brightgreen" alt="visitor badge"/>
+</p>
 
 ---
 
@@ -46,40 +49,7 @@ These projects were developed as academic submissions and are **not publicly vis
 - 🔢 *Numerical Methods Toolkit* in Python – root finding, systems of equations, interpolation, and more  
 - 🔐 *Pollux Cipher + Prime Generator* – encryption experiments with 300–1500 digit primes  
 
-📝 Hosted on: [GitHub @ElemP20 (Academic Repo)](https://github.com/ElemP20)
-
----
-
-## 📬 Let's Connect!
-
-- 🌐 [LinkedIn: flloyd-nathaniel-gagni](https://www.linkedin.com/in/flloyd-nathaniel-gagni/)
-- 🎮 [Itch.io: por0dox](https://por0dox.itch.io/)
-- 📧 Email: `flloydgagni@example.com` (replace with your actual email)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=flloydgagni&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=flloydgagni&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
-
----
-
-## 🌍 Contribution Graph
-
-<p align="center">
-  <img src="https://github-contribution-graph.ez4o.com/?username=flloydgagni&theme=tokyo-night" />
-</p>
-
----
-
-## 🚀 Visitor Badge
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=flloydgagni&style=flat-square&color=brightgreen" alt="visitor badge"/>
-</p>
+📝 Hosted on: [GitHub @ElemP20](https://github.com/ElemP20)
 
 ---
 
@@ -92,8 +62,19 @@ These projects were developed as academic submissions and are **not publicly vis
 
 ---
 
-```ascii
-           .-.
-          (o o)     👨‍💻  Keep learning.
-          | O \     🎮  Keep experimenting.
-         \^___^/    ✨  Keep building.
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=flloydgagni&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=flloydgagni&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
+---
+
+## 📬 Let's Connect!
+
+- 🌐 [LinkedIn: flloyd-nathaniel-gagni](https://www.linkedin.com/in/flloyd-nathaniel-gagni/)
+- 🎮 [Itch.io: por0dox](https://por0dox.itch.io/)
+- 📧 Email: `flloydgagni@example.com` (replace with your actual email)
+
+---
